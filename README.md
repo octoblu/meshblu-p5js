@@ -1,6 +1,9 @@
 # meshblu-p5js
 
 Using p5.js with the [Meshblu](https://meshblu.readme.io) client-side javascript library
+![Alt text](/sample.jpg?raw=true)
+
+[Video Sample](https://twitter.com/virgilvox/status/722118207754993664/video/1)
 
 Include the p5.js and Meshblu library in your header along with the "sketch"
 
