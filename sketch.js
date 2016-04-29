@@ -43,7 +43,7 @@ function setup() {
   drums.amp = .75
 
   bass = FM('bass')
-    .note.seq( [7,4,5,3,1,5].rnd(), [1,2,3,3,1,5].rnd())
+    .note.seq( [7,4,5,6,2,5].rnd(), [1,2,3,3,1,5].rnd())
 
   rhodes = Synth( 'rhodes', {amp:.35} )
     .chord.seq( Rndi(1,6,3), 1 )
